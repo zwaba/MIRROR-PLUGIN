@@ -2,7 +2,7 @@ MIRRORZ  by Zwabo
 
 Description:
 
-MIRRORZ is a nice ambiant tool I did for my proper use. Could be interesting for the community, so here it is.
+MIRRORZ (Max gen~ generated) is a nice ambiant tool I did for my proper use. Could be interesting for the community, so here it is.
 
 Unlike other reverse delays, the TRIGGER function of MIRRORZ  allows you to play backward the last chords/ melody you JUST played (not delayed), same for the LOOP function but looped.
 
